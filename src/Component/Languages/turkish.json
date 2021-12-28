@@ -1,0 +1,20 @@
+{
+  "translation":{
+    "favorites":"Favoriler",
+    "StackPage":"Ana Sayfa",
+    "Settings":"Ayarlar",
+    "Search":"Ara...",
+    "Comic":"Çizgi Romanlar",
+    "CloseComic":"Kapat",
+    "Creators":"Yapımcılar",
+    "Characters":"Karakterler",
+    "Note": "Silmek için kartın üzerine basınız",
+    "Languages": "Dili seçiniz",
+    "Theme": "Temayı seçiniz",
+    "English": "İngilizce",
+    "Turkish": "Türkçe",
+    "Dark": "Koyu Tema",
+    "Default": "Varsayılan Tema",
+    "Description": "Açıklama bulunamadı"
+  }
+}

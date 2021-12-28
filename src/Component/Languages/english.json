@@ -1,0 +1,20 @@
+{
+  "translation":{
+    "favorites":"Favorites",
+    "StackPage":"Home",
+    "Settigs":"Settings",
+    "Search":"Search...",
+    "Comic":"comic",
+    "CloseComic":"close comic",
+    "Creators":"Creators",
+    "Characters":"Characters",
+    "Note" : "Press on card for remove",
+    "Languages": "Seleceted Languages",
+    "Theme": "Seleceted Theme",
+    "English": "English",
+    "Turkish": "Turkish",
+    "Dark": "Dark Theme",
+    "Default": "Default Theme",
+    "Description": "No description"
+  }
+}
